@@ -94,9 +94,6 @@ htextinsCent = vision.TextInserter('Text', '+', ...
     'Color', [0 0 0], ... 
     'FontSize', 12);
 
-%%
-
-
 nFrame = 0;
 while (nFrame < 3000)
     
